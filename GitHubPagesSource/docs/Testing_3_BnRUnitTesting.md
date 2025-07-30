@@ -251,7 +251,7 @@ Breakpoints can be set directly in the unit test code. Therefore, when a unit te
 With code coverage enabled you can see how much of you code is covered by your testing.  This can help assess the quality of your test cases.  
 Code coverage in Automation Studio only works for C/C++ tasks/libraries and GCC 6.3.0
 
-[EmbGCov-Demo project](https://github.com/br-automation-com/EmbGcov-Demo)
+[EmbGCov-Demo project](https://github.com/br-automation-community/EmbGcov-Demo)
 
 Usage:
 

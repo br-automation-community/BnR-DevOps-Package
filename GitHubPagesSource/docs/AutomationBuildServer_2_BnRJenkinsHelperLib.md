@@ -6,10 +6,10 @@
 * The library contains Groovy scripts, which are wrappers around Python scripts and general commands
 * You don’t need to edit this library at all, but you will be using it in your Jenkinsfile
     * The functions are described on the next slides as an FYI
-* [Public link to the library on GitHub](https://github.com/br-automation-com/BnR-Jenkins-Helper-Library)
+* [Public link to the library on GitHub](https://github.com/br-automation-community/BnR-Jenkins-Helper-Library)
     * The Groovy scripts are located within the “vars” folder on the repo
     * The Python scripts that the Groovy scripts utilize are located within the “resources\\scripts” folder on the repo
-    * Additional documentation can be found [here](https://br-automation-com.github.io/BnR-Jenkins-Helper-Library/)
+    * Additional documentation can be found [here](https://br-automation-community.github.io/BnR-Jenkins-Helper-Library/)
 * These scripts have been tested in AS4.7 and above. Prior AS versions may work, but they are currently untested.
 
 ## Add to Jenkins Server
@@ -25,7 +25,7 @@ To utilize this helper library on your Jenkins server, do the following:
     * Set the Retrieval method to “Modern SCM”
     * Set “Source Code Management” to “GitHub”
     * Fill out the credentials accordingly (or add new credentials if needed)
-    * In the “Repository HTTPS URL” field, paste this URL: [https://github.com/br-automation-com/BnR-Jenkins-Helper-Library.git](https://github.com/br-automation-com/BnR-Jenkins-Helper-Library.git)
+    * In the “Repository HTTPS URL” field, paste this URL: [https://github.com/br-automation-community/BnR-Jenkins-Helper-Library.git](https://github.com/br-automation-community/BnR-Jenkins-Helper-Library.git)
     * In the “Library Path” field, paste the following: ./
 
 ## Workspace

@@ -1,1 +1,1 @@
-https://github.com/br-automation-com/BnR-Jenkins-Helper-Library
+https://github.com/br-automation-community/BnR-Jenkins-Helper-Library
