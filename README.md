@@ -9,4 +9,4 @@ A full description is provided in [this](https://www.controldesign.com/developme
 See also the corresponding [podcast](https://www.controldesign.com/podcasts/article/33007201/automation-software-development-using-devops-strategies?utm_source=CDES+eNewsletter&utm_medium=email&utm_campaign=CPS230627200&o_eid=1592C5120345J2F&rdx.ident[pull]=omeda|1592C5120345J2F&oly_enc_id=1592C5120345J2F).
 We also introduced the materials in a [wE-talk](https://www.br-automation.com/en-us/academy/knowledge-resource-search/br-devops-package-clagn-1693838307468/). 
 
-![DEV OPS Logo B R-01small](https://github.com/br-automation-community/BnR-DevOps-Package/assets/82159028/12273741-2c68-4497-9999-507875fe6913)
+![DEV OPS Logo B R-01small](/GitHubPagesSource/docs/img/DevOps%20Package%20Overview0.png)
