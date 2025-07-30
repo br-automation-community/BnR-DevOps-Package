@@ -6,4 +6,4 @@ The following two template files are provided within the DevOps package:
 * A Git configuration script
 * authors\-export\.ps1 script
 
-Access the template files from the repo [here](https://github.com/br-automation-com/BnR-DevOps-Package).
+Access the template files from the repo [here](https://github.com/br-automation-community/BnR-DevOps-Package).

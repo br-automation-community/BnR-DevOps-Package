@@ -1,6 +1,6 @@
 ---
 llvm_install: https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.0/LLVM-18.1.0-win64.exe
-template_url: https://github.com/br-automation-com/BnR-DevOps-Package/raw/develop/Testing/Template%20Files/StaticCodeAnalysis
+template_url: https://github.com/br-automation-community/BnR-DevOps-Package/raw/develop/Testing/Template%20Files/StaticCodeAnalysis
 ---
 
 # Static Code Analysis
