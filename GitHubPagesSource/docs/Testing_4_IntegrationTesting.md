@@ -142,11 +142,21 @@ Basic components:
 * End the session (close the browser)
     * driver.quit()
 
-Find elements using Developer tools in Chrome by pressing F12, or via the “…” menu:
+### Selectors
+
+Selectors can vary in format depending on how you want to locate the element.
+In mappView, the resulting element ID consists of the Content ID and Widget Name. Together, they create a unique element ID on the page. However, during testing, you may want to use a relative path or locate an element by a specific attribute, such as a style. You can write the selector on your own or you can find some help using Developer tools in Chrome by pressing F12, or via the “…” menu:
 
 ![](img%5CTesting44.png)
 
+* Using elements view:
 ![](img%5CTesting45.png)
+
+* Using context menu:
+![](img%5CTesting56.png)
+
+* Using record function:
+![](img%5CTesting57.png)
 
 ### Helper functions: IntegrationTestBase.py
 
